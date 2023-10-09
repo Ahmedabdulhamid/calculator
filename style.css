@@ -1,0 +1,30 @@
+body{
+    background-color: hsl(222, 26%, 31%) !important;
+}
+.form-control{
+    background-color:  hsl(223, 31%, 20%)!important;
+    color: white !important;
+    font-weight: 700 !important;
+    border: none !important;
+}
+.form-control::placeholder{
+    color: white !important;
+}
+.form-control:focus{
+    border: none !important;
+    box-shadow: none !important;
+    outline: none !important;
+}
+.parentdiv{
+    background-color:  hsl(223, 31%, 20%)!important;
+}
+.del{
+    background-color: hsl(222, 26%, 31%) !important; ;
+}
+.equ{
+    background-color:orangered!important;
+    border: none;
+}
+button{
+    font-weight: 700 !important;
+}
